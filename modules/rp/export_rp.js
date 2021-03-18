@@ -1,0 +1,16 @@
+exports.bite = require('./bite.js');
+exports.castrate = require('./castrate.js');
+exports.cover = require('./cover.js');
+exports.fuck = require('./fuck.js');
+exports.giveFive = require('./give_five.js');
+exports.hit = require('./hit.js');
+exports.kiss = require('./kiss.js');
+exports.knock = require('./knock.js');
+exports.lick = require('./lick.js');
+exports.poison = require('./poison.js');
+exports.pressTo = require('./press_to.js');
+exports.sex = require('./sex.js');
+exports.toEmbrace = require('./to_embrace.js');
+exports.toKick = require('./to_kick.js');
+exports.toLove = require('./to_love.js');
+exports.toStroke = require('./to_stroke.js');

@@ -1,0 +1,16 @@
+{
+  "transfer": "5k",
+  "lengthName": {
+    "from": 3,
+    "to": 15
+  },
+  "jobFactor": {
+    "money": 1,
+    "exp": 1
+  },
+  "bonus": {
+    "randMoney": [100, 500],
+    "randMoneyDouble": [100, 500],
+    "randExp": [1, 2]
+  }
+}

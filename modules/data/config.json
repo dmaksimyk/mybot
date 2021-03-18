@@ -1,0 +1,7 @@
+{
+  "token": "token group",
+  "user_token": "token user",
+  "group_id": 123456,
+  "rules": "https://vk.com/@dd_bot-rules",
+  "reference": "https://vk.com/@dd_bot-reference"
+}
