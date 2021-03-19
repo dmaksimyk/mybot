@@ -1,6 +1,6 @@
 const {VK} = require('vk-io');
-// eslint-disable-next-line max-len
-const vk = new VK({token: '048a7880ced88137f2069b8521714187aaae4fad1fb6f12af2497fe7a9c8663c15bb632033c12864a8322'});
+const {config} = require('../export_other.js');
+const vk = new VK({token: config.token});
 const mongoose = require('mongoose');
 
 mongoose.connect('mongodb://localhost/dd_bot', {
